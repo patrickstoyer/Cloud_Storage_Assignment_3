@@ -1,0 +1,5 @@
+partition,"	itemid","	date","	comment","	url"
+experiment1,1,"	2/13/2021","	Docker experiment","	exp1.csv"
+experiment2,2,"	2/20/2021","	NoSQL experiment","	exp2.csv"
+experiment3,3,"	3/10/2021",GitHub experiment,"	exp3.csv"
+experiment2,4,2/22/2021,NoSQL experiment part 2," exp4.csv"
